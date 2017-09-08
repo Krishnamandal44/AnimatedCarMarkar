@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/avik/.android/build-cache/5fdf938d25b17217fd55ff96bdb0ea240567ef72/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_light.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_media_pause_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_dark.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_light.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_light.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/home/avik/.android/build-cache/3bba66faafd58ce1c315a1db3307fc3a2801fe99/output/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/home/avik/.android/build-cache/3bba66faafd58ce1c315a1db3307fc3a2801fe99/output/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/home/avik/.android/build-cache/3bba66faafd58ce1c315a1db3307fc3a2801fe99/output/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/home/avik/.android/build-cache/3bba66faafd58ce1c315a1db3307fc3a2801fe99/output/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_button_light.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_button_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_media_play_dark.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/carmarkarred.png",
+        "source": "/home/avik/Development/MarkarAnimateMap/app/src/main/res/drawable/carmarkarred.png"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_group_collapse.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_group_collapse.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_light.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_light.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_dark.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_group_expand.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_group_expand.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_dark.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_media_play_light.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_button_dark.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/drawable/mr_button_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/home/avik/.android/build-cache/64932dac47b1f80509de1dd783fa9b3c723ceba7/output/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    }
+]

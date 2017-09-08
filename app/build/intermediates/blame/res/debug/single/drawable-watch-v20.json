@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/avik/.android/build-cache/f584a2ec3bb3d332d312dd75f3da60b174e4c7c5/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/avik/.android/build-cache/f584a2ec3bb3d332d312dd75f3da60b174e4c7c5/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/avik/.android/build-cache/f584a2ec3bb3d332d312dd75f3da60b174e4c7c5/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/39c7b8abe16b089d81b8225cf808d9e8acce6036/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1fd6dc27f1ebe5bdbf26aa54773d11327f91532b">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_6e5ad85edd72bea144394ddcb635a84bd203e57d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/14eeb20ed7fe8b29d2f66ab75d2e2b3fe019c626/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_4295bd005c97414f524dd19bb85feab5c5441b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/fa57d5afb071a8701f96945570c64cf1ea6fc466/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="15857dce424132cb53e37cba16b9d587a6c5c568">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_94be50ca9265fa9130cdd4def17c6a843f245d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/393c064394dfc722415b43922618b3b508c4088e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="885bcb023a9b57ed31c305e2e94e31af909e21c5">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_aaaaf79b72c03269ff906b2bbed9a5a005011440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/26038a2c7b21d4a06e05e70b9cf3ff2ba5e96b2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_6b67cf52f125fe0ba341aaa82f2369529458f35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/185e72091d1b2a6f82ab2d9b8174bd0591a16932/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9bc3e11fbff8e0d503ff795c12c73e1a6fad7a9">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_fc386336975a3f141087636ef3a0ed59c194b0d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/648fe8338186a9bea2e2bc8d3eb2633698a49020/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_639810f570cc80212eef5dbaabec3c815ebce8bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/3b05cd2cbcfbbdb368ccff2352551158967bad96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2bae22c4925830cc03e81f4911f62b445bf132f">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_565dfecff452d8a82d35778028ce505339207b5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/0b1dbd92f0ffa634876b3464c9d4c484a7e623c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_6443d1cd6c7b28f69d8f274e738fba858df923c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/02109382e6f5f9d09e6814ce68d76046cf0708dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="338791f0ad4a30593b69a9d083380ddb6789dd6a">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_0fe26466963c5a3ad4fc4ea263b5108c824ee5ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/0f1e308703a0cdaba950af43d8f2a52d48960031/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_cc83a8f85c259932548fd24d640eb14c332f276c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/868322218affd704e6d1b878ec9c8fd0e1451d87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_1f33c0d36f43bbd5eac7f41000cbca226c225639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/c290784136cd8bb228400fb165a0facd9fe42fb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_4928f00e5e6ab72f7da32e0c36df4a4e4a3de55a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/c66fe6abb5949879f2a366dcefe9cd1216eaabb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_4dcb3a904dd06d5740baa251379179c5dfcd1373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/5d8cc79b3318d3583d835fb695799af090b1371b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_391babdcd3b9f0ca7d31a3e91de4c64571607868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/ef827e299209fb2fc3f850cb4bfce4d98ba271ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b84a791dc9bcda50cb84e4498e0502b3e4dfd47d">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_b99cbfb0ad7b6ac1bd1dd7d4a1de0333fb475af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/71aa7108a790a86c8134d25bb2424c1baf0fef3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ba90907329e4ed429307d39490927b456838bf08">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_5397e7229eba8604522a34d68437a43413f35da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/e27af037c3980d9b9feefbca3d0cec3674aad190/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03711df0c11eb771a2115c76db9e271eddea1bb8">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_f504500d373c4c3d9daabe75aae2e14168679897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/9a71d60d91da84fea04f102620adffbad562a8e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="424e509954db08079f78b20947e2cf120c045e48">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_3edc9f33fffb93f7c75598972beb3b0b7393763c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/9e4605cafa0615dae2e260f90c01464754144c5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_4698301ee11a6f5633759fffed9c95fd0211c1bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/3682bb28cf7ed58fee6b3ec73404a470931c01f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_1651cae1ecd28461e40375572bce4a051cbe0e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/8677770dd9b39d17143622005610168992a287bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5da59bfe8bee5a41daa7c26b970b12699ac8db">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_9172c5295a64303a9e129b2bdcbc532bf2ff5909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/dc683205d27697c558d528a576dd34ea7b623388/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2df23fb8581e8503db6e33739b450f9eb4a8b30a">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_5596bb0e87d4b11f572b667831e0cecb44f04232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/0fb22fe26a074d8d733afa326cab46047b0a4c4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3f813cc0713085e46735bcabf9def2ffb6419de7">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_36374b877161b9d80a3712ba9e8855e9df82487e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/1041f5f6a5178cea22354622a899f97240b63143/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="314299924c4866a8fea850a6ab10a7751fbce79d">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_5050678190164338c81bc4aa73142f368165a486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/f529c3b88b93028c367c4e833f0c6407923dd531/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="79a435f1c45ac04593a5134d70da983305584e90">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_d9316209a10a212e852799cf355cea9a6718ce08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/ada72ceeb1e76bdde36d4885b54326d40e28a447/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_eba2e063aee220681e64bfe4b42e74d65a4547c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/0ad027077298e4b1eebb17d5307cf3753a02819f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cdfe6f00bbbe6bf590b4306017d485d845ffc7e5">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_de20c2779998f6c8c54e15e9dea6c85237ab601e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/bd8e70f4c9cffe5af6edef0fa1adfaa3b916d6f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_4f491040f85205c32b79e89e6d47f045f9bc1067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/f0bcfcdc02960996d7812cca84989c99d5dee07a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25c862ccc7a67cc4682ea9cacf08918693e915ef">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_53993e702ba432e6f043c9ec7edfb111f393a225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/e7d4032c135d93072ec2de4f3c862cd3780ff96e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5c6a0af36142b32d1f81ab099b73e90a25e360e2">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_a70e40bfaa3baf0be41995b75933ceff23dcdda4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/371b2a8918c9ca1acceaa24a724308331eff5f61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_d5fbeb8aa53fffa8a5b6c0477bf09dfee6032035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_7ecceacd99283918196496fecedfde770d9a5eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/62b5c68693a37e3bc3cb7d705bc21c0af3faee86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_4b3b69e2bb8bd43c95d8d9cb3cdb60ca5440d03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/caa0670e9cf0e94b96d6784d68baccad90754f82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_09cc87ff3b0e95cd7900f33c23488c8a53b25317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/c1381bc7d7677874f813a4af5c15c3e862509c8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_361d92a2cb5164c6d7ba11183aae4e8ad65addd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/75aba0a97898c26a16daf13e7463b8cf47e29095/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d3a27693b28b46af644df8ce765f4252b32c9e87">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_5a53e118ec66606f2d1dd9afee84bdb86ae447dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/2f786eeabbce93f3fee741f4188b32666cbcf4b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="68a1346f52b0e623460bf2f70c59c59a7a34bcea">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_58622285307eb6d1ed13320b32f8d72555516109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/d6e12feddc4afb4cbef122ab01e93c8f8cab70f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_ca0b0381981a5fe3a1185047ff15638c20a61268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/3dfee88444090ac010e9c6ddc8030f818d42b1a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="976b0a037981a05e685415093c67ad73c94d4846">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_4dc9f1b641f3dc2e06f083e172c42cc84de3a9ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/5fdf938d25b17217fd55ff96bdb0ea240567ef72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7357cef91864a283c8db913866f50bafbe8c6801">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_6f7e81fd60501ab3c7a4545b4a63f0a170caded9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/715b5984fad523781d7c8e451d134c1eaa3ecd67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="50fde88f529e2c238d72467da774e113f47dc866">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_a4863ded3cd448f999217babe1947d28c3582e4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/2a9f91a438a34345ba2485341844fdbaa59a5ae0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0cccf7679b2764a849f90e2b581e2ec8d411679f">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_a1b39df55a0161a1bd0c65da8b822b8bda37bc68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/34e7a3e41af97952ce0555cad85b743360ba6a18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e015f5a6691f80b1f71e5299d48933be6a057963">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_2be0a4460d6b5788aab00ffb381c222d83879424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/293c9c498670e7853449b78dabffed7940075305/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_b8d95f6d02378bd097057d4f15c982afa14f0bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/f584a2ec3bb3d332d312dd75f3da60b174e4c7c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_3da849dc8ecf1e408829c6e9241ad3c3a5393de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/4563c60982cdddc3b2fd49738d1ac55694c1159f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e4ff475aad14939684efd3227ec19cd49e90888f">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_6173d55112a3ee0303dc5064a4128ca6315e82f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/6bf14991e0cc795f905c4b7f939656a520769fb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="acaf8846fcf5556493bdbe075b13ea664bb1e9f5">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_eeb7211b32874909a06861ac13cf2a7132dbbe47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/fe3e0303dc9864f361fda7e5f0331cfb985a6e04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="543cbd7526b5bf05a5a1be344c53b1994f22a04f">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_245f2ea04ac28ec16b481e63cf199cd29fb245c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/2d7b069657b5d038b3df5d4a055e1ec2f13d368f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5bad89ac06f1015490c3332c1cd160be1d17c049">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_01e2732f92276e34b4a72fdec952fccfb1baf574.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/16f2d25fd8d7d05a08d78f942a0a67fc12038261/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_734a00ebb03fce47c3010c68c7ea688c512300bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/55683fe4563d9573c65408d9d09636bc829f8a09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_6de1a24ef609e05e079eabbbd3fa973bd30999c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avik/.android/build-cache/5307d00f2dc0a45881216326f49a46a052e2f109/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="/home/avik/Development/MarkarAnimateMap/app/build/intermediates/pre-dexed/debug/classes_136db33ea868d94b4c95937e814456c2f9c2f367.jar" />
+    </item>
+
+</items>

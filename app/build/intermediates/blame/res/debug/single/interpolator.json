@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/avik/.android/build-cache/33dc66103accfb96eb3a694f694c2661ef7e02d9/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

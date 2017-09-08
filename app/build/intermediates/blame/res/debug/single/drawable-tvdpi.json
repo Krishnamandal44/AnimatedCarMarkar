@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_medium_off_client.png",
+        "source": "/home/avik/.android/build-cache/74bbdac3f25f152347665191b955d48fe8e47a49/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable-tvdpi/common_full_open_on_phone.png",
+        "source": "/home/avik/.android/build-cache/3bba66faafd58ce1c315a1db3307fc3a2801fe99/output/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_tall_off_client.png",
+        "source": "/home/avik/.android/build-cache/74bbdac3f25f152347665191b955d48fe8e47a49/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_standard_off_client.png",
+        "source": "/home/avik/.android/build-cache/74bbdac3f25f152347665191b955d48fe8e47a49/output/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_small_off_client.png",
+        "source": "/home/avik/.android/build-cache/74bbdac3f25f152347665191b955d48fe8e47a49/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    }
+]

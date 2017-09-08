@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/avik/.android/build-cache/e27af037c3980d9b9feefbca3d0cec3674aad190/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/avik/Development/MarkarAnimateMap/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
